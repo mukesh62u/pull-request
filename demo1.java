@@ -9,6 +9,11 @@ public class demo1 {
         int sum = a + b + c;
 
         System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
     }
 }
 
